@@ -8,8 +8,7 @@ I'm **Mahan Veisi**, a passionate computer engineer with a keen interest in **Re
 
 - 🔭 **Currently working on**: Generative Adversarial Networks(GAN).
 - 🌱 **Exploring**: Advanced Reinforcement Learning techniques and their applications in robotics and game theory.
-- 👯 **Looking to collaborate on**: Open-source AI projects, particularly in RL and computer vision.
-- ⚡ **Fun fact**: I’m a guitar enthusiast and love exploring the fusion of art and technology.
+- ⚡ **Looking to collaborate on**: Open-source AI projects, particularly in RL and computer vision.
 
 ## 🔗 Connect with Me
 
