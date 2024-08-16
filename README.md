@@ -61,11 +61,6 @@ I'm **Mahan Veisi**, a passionate computer engineer with a keen interest in **Re
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🏆 Achievements & Honors
-
-- **Second Place in International RoboCup Competitions (2D Soccer Simulation)** - May 2023
-- **Top 8 in National Mathematics Competitions (Paya International)** - June 2018
-- **Published Research on Reinforcement Learning for RoboCup Soccer Simulation** - [Link to Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LQL2vyQAAAAJ&citation_for_view=LQL2vyQAAAAJ:u5HHmVD_uO8C)
 
 ## 💼 Professional Experience
 
