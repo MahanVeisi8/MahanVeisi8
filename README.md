@@ -6,7 +6,7 @@
 
 I'm **Mahan Veisi**, a passionate computer engineer with a keen interest in **Reinforcement Learning (RL)**, **Computer Vision**, and **Generative AI**. Currently, I'm pursuing my **Bachelor's in Computer Engineering** at **Shahid Beheshti University, Tehran**. My journey in tech is fueled by curiosity and a desire to push the boundaries of what AI can achieve.
 
-- 🔭 **Currently working on**: Fashion Tagger - An AI-powered tool for fashion image labeling.
+- 🔭 **Currently working on**: Generative Adversarial Networks(GAN).
 - 🌱 **Exploring**: Advanced Reinforcement Learning techniques and their applications in robotics and game theory.
 - 👯 **Looking to collaborate on**: Open-source AI projects, particularly in RL and computer vision.
 - ⚡ **Fun fact**: I’m a guitar enthusiast and love exploring the fusion of art and technology.
