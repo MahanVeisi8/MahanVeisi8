@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Mahan Veisi! 👋
 
-<!--
-**MahanVeisi8/MahanVeisi8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on AI and ML projects.
+- 🌱 I’m learning advanced deep learning techniques.
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 Ask me about Python, Machine Learning, or anything tech-related.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mahan-veisi-427934226/), [Email](mailto:mahan.veisi@example.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love working on innovative projects that make an impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+
+- [Fashion Tagger](https://github.com/MahanVeisi8/Fashion-Tagger): AI-powered fashion image labeling.
+- [Project Name](link): Short description.
+
+## GitHub Stats
+
+![Mahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahanVeisi8&show_icons=true)
+
