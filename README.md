@@ -4,7 +4,9 @@
 
 I'm **Mahan Veisi**, a passionate computer engineer with a keen interest in **Reinforcement Learning (RL)**, **Computer Vision**, and **Generative AI**. Currently, I'm pursuing my **Bachelor's in Computer Engineering** at **Shahid Beheshti University, Tehran**. My journey in tech is fueled by curiosity and a desire to push the boundaries of what AI can achieve.
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=MahanVeisi8&theme=onedark&margin-w=2&margin-h=10&column=7&no-frame=true&title=MultiLanguage,Followers,Stars,Commits,Followers" alt="Trophies" /> </p>
+<p align="left"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=MahanVeisi8&theme=onedark&margin-w=2&margin-h=10&column=7&no-frame=true&title=MultiLanguage,Commits,Issues,PullRequest,Repositories,Stars,Followers,Organizations,Achievements" alt="Trophies" /> 
+</p>
 
 - 🔭 **Currently working on**: Generative Adversarial Networks(GAN).
 - 🌱 **Exploring**: Advanced Reinforcement Learning techniques and their applications in robotics and game theory.
