@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-![Welcome Banner](path_to_your_banner_image) <!-- Add a custom banner image if you like -->
-
 ## 👨‍💻 About Me
 
 I'm **Mahan Veisi**, a passionate computer engineer with a keen interest in **Reinforcement Learning (RL)**, **Computer Vision**, and **Generative AI**. Currently, I'm pursuing my **Bachelor's in Computer Engineering** at **Shahid Beheshti University, Tehran**. My journey in tech is fueled by curiosity and a desire to push the boundaries of what AI can achieve.
