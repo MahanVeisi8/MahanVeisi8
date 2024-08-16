@@ -79,42 +79,11 @@ Developed an application using an ensemble of CNNs (ResNet50, InceptionV3, Mobil
 
 [Learn More](https://github.com/MahanVeisi8/Face_recognition)
 
-## 🎓 Education
 
-- **B.Sc. in Computer Engineering** - Shahid Beheshti University, Tehran (2021 - Present)
-  - GPA: 17.9
-- **High School Diploma in Mathematics and Physics** - Shahid Beheshti School for Gifted Students, Tehran (2018 - 2021)
-  - GPA: 19.7
-
-## 🌟 Featured Interests
-
-- **Reinforcement Learning**: Delving into DQN, A3C, DDPG, and SAC to push the limits of what autonomous systems can achieve.
-- **Generative AI**: Exploring GANs for image generation and enhancing creative AI applications.
-- **Blockchain**: Interested in the intersection of AI and blockchain, particularly in decentralized applications.
-
-## 🎮 Hobbies
-
-- **Music**: Playing the guitar and experimenting with music production.
-- **Fitness**: Running, soccer, and swimming to keep both body and mind sharp.
-- **Tech & Gaming**: Passionate about video games and staying updated with the latest in tech.
-
-## ✨ Future Goals
-
-1. **Integrate Foundation Models**: Fine-tune models like **CLIP** and **DINO** for enhanced image labeling accuracy.
-2. **Production Deployment**: Work on deploying projects in the cloud using **AWS** or **Google Cloud**.
-3. **Advanced AI Research**: Continue exploring cutting-edge AI techniques and contribute to the research community.
 
 ## 📈 GitHub Stats
 
 ![Mahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahanVeisi8&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahanVeisi8&layout=compact&theme=radical)
-
-## 📬 Get in Touch
-
-Feel free to reach out if you’re interested in collaborating on projects or just want to chat about tech, AI, or anything else!
-
-- **Email**: mahan8292@gmail.com
-- **LinkedIn**: [Mahan Veisi](https://www.linkedin.com/in/mahan-veisi-427934226/)
-- **GitHub**: [MahanVeisi8](https://github.com/MahanVeisi8)
 
 Thanks for visiting my profile! 😊
