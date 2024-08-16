@@ -40,16 +40,6 @@ I'm **Mahan Veisi**, a passionate computer engineer with a keen interest in **Re
 ![Pillow](https://img.shields.io/badge/Pillow-0078D6?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-![DQN](https://img.shields.io/badge/DQN-1F77B4?style=for-the-badge&logo=reinforcement-learning&logoColor=white) <!-- Custom label for DQN, A3C, DDPG, SAC -->
-![A3C](https://img.shields.io/badge/A3C-FF7F0E?style=for-the-badge&logo=reinforcement-learning&logoColor=white)
-![DDPG](https://img.shields.io/badge/DDPG-2CA02C?style=for-the-badge&logo=reinforcement-learning&logoColor=white)
-![SAC](https://img.shields.io/badge/SAC-D62728?style=for-the-badge&logo=reinforcement-learning&logoColor=white)
-
-![YOLO](https://img.shields.io/badge/YOLO-0A0A0A?style=for-the-badge&logo=yolo&logoColor=white)
-![detectron2](https://img.shields.io/badge/detectron2-00599C?style=for-the-badge&logo=detectron2&logoColor=white)
-
-![Siamese Networks](https://img.shields.io/badge/Siamese%20Networks-1D3557?style=for-the-badge&logo=neural-network&logoColor=white)
-
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
