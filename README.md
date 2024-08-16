@@ -19,8 +19,6 @@ I'm **Mahan Veisi**, a passionate computer engineer with a keen interest in **Re
 
 ## 🚀 My Technical Arsenal
 
-
-### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
