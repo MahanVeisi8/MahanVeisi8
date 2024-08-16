@@ -14,7 +14,6 @@ I'm **Mahan Veisi**, a passionate computer engineer with a keen interest in **Re
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahan-veisi-427934226/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/MahanVeisi8)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@Mahan_Veisi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahan8292@gmail.com)
 
