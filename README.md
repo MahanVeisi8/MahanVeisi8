@@ -10,26 +10,6 @@ I'm **Mahan Veisi**, a passionate computer engineer with a keen interest in **Re
 - 🌱 **Exploring**: Advanced Reinforcement Learning techniques and their applications in robotics and game theory.
 - ⚡ **Looking to collaborate on**: Open-source AI projects, particularly in RL and computer vision.
 
-
-## 📂 Highlighted Projects
-
-### 🚀 [Fashion Tagger: AI-Powered Fashion Image Labeling](link_to_your_fashion_tagger_project)
-A web application that classifies fashion items using an AI model trained on a large-scale fashion dataset. The model utilizes an ensemble of CNNs including **EfficientNet**, **ResNet**, and **MobileNet**.
-
-[Explore the Project](link_to_your_fashion_tagger_project)
-
-### 🤖 [Reinforcement Learning Practices](https://github.com/MahanVeisi8/RL_practices)
-A repository showcasing various RL algorithms like **DQN**, **A3C**, and **D3RQN** implemented in different environments. This project reflects my deep interest and expertise in reinforcement learning.
-
-[Check it Out](https://github.com/MahanVeisi8/RL_practices)
-
-### 🎥 [Iranian Celebrity Face Recognition](https://github.com/MahanVeisi8/Face_recognition)
-Developed an application using an ensemble of CNNs (ResNet50, InceptionV3, MobileNetV2) for high-accuracy celebrity face recognition. Integrated with Flask and JavaScript for seamless deployment.
-
-[Learn More](https://github.com/MahanVeisi8/Face_recognition)
-
-
-
 ## 📈 GitHub Stats
 
 ![Mahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahanVeisi8&show_icons=true&theme=radical)
