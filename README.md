@@ -62,13 +62,6 @@ I'm **Mahan Veisi**, a passionate computer engineer with a keen interest in **Re
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-## 💼 Professional Experience
-
-### Researcher at Shahid Beheshti University’s Image Processing Lab (June 2023 - May 2024)
-- Implemented and optimized **YOLO** for real-time object detection.
-- Developed advanced filtering techniques in the frequency domain for image enhancement.
-- Conducted research on **face detection and recognition** using Siamese networks.
-
 ## 📂 Highlighted Projects
 
 ### 🚀 [Fashion Tagger: AI-Powered Fashion Image Labeling](link_to_your_fashion_tagger_project)
