@@ -31,10 +31,10 @@ I'm **Mahan Veisi**, a passionate computer engineer with a keen interest in **Re
     <img src="https://github-profile-trophy.vercel.app/?username=MahanVeisi8&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="MahanVeisi8's trophies"/>
 </p>
 
-<h3 align="center">Contribution Snake</h3>
-<p align="center">
+<!--<h3 align="center">Contribution Snake</h3>-->
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/MahanVeisi8/MahanVeisi8/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
+</p> -->
 </details>
 
 ## 🔗 Connect with Me
