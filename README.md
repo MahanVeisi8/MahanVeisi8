@@ -17,6 +17,26 @@ I'm **Mahan Veisi**, a passionate computer engineer with a keen interest in **Re
 ![Mahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahanVeisi8&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahanVeisi8&layout=compact&theme=radical)
 
+<details open>
+<summary>GitHub Stats</summary>
+<p align="center">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MahanVeisi8&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="MahanVeisi8's GitHub stats" />
+</p>
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=MahanVeisi8&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="MahanVeisi8's streak"/>
+</p>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=MahanVeisi8&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="MahanVeisi8's trophies"/>
+</p>
+
+<h3 align="center">Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MahanVeisi8/MahanVeisi8/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+</details>
+
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahan-veisi-427934226/)
