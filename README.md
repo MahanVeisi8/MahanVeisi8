@@ -17,7 +17,6 @@ I'm **Mahan Veisi**, a passionate computer engineer with a keen interest in **Re
 </p>
 
 ![Mahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahanVeisi8&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahanVeisi8&layout=compact&theme=radical)
 
 
