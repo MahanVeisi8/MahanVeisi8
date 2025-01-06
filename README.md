@@ -14,11 +14,8 @@ I'm **Mahan Veisi**, a passionate computer engineer with a keen interest in **Re
 
 ## 📈 GitHub Stats
 
-![Mahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahanVeisi8&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahanVeisi8&layout=compact&theme=radical)
-
 <details open>
-<summary📈 GitHub Stats</summary>
+## <summary> 📈 GitHub Stats</summary>
 <p align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MahanVeisi8&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="MahanVeisi8's GitHub stats" />
 </p>
