@@ -4,9 +4,7 @@
 
 I'm **Mahan Veisi**, a passionate computer engineer with a keen interest in **Reinforcement Learning (RL)**, **Computer Vision**, and **Generative AI**. Currently, I'm pursuing my **Bachelor's in Computer Engineering** at **Shahid Beheshti University, Tehran**. My journey in tech is fueled by curiosity and a desire to push the boundaries of what AI can achieve.
 
-<p align="left"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=MahanVeisi8&theme=onedark&margin-w=2&margin-h=10&column=7&no-frame=true&title=MultiLanguage,Commits,Repositories,Stars,Followers" alt="Trophies" /> 
-</p>
+
 
 - 🔭 **Currently working on**: Generative Adversarial Networks(GAN).
 - 🌱 **Exploring**: Advanced Reinforcement Learning techniques and their applications in robotics and game theory.
@@ -14,12 +12,20 @@ I'm **Mahan Veisi**, a passionate computer engineer with a keen interest in **Re
 
 ## 📈 GitHub Stats
 
+<p align="left"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=MahanVeisi8&theme=onedark&margin-w=2&margin-h=10&column=7&no-frame=true&title=MultiLanguage,Commits,Repositories,Stars,Followers" alt="Trophies" /> 
+</p>
 
+![Mahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahanVeisi8&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahanVeisi8&layout=compact&theme=radical)
+
+
+<!--
 <details open>
 <summary> 📈 GitHub Stats </summary>
 
-![Mahan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahanVeisi8&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahanVeisi8&layout=compact&theme=radical)
+
 
 <p align="center">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MahanVeisi8&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="MahanVeisi8's GitHub stats" />
@@ -36,8 +42,9 @@ I'm **Mahan Veisi**, a passionate computer engineer with a keen interest in **Re
 <!--<h3 align="center">Contribution Snake</h3>-->
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/MahanVeisi8/MahanVeisi8/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p> -->
+</p> 
 </details>
+-->
 
 ## 🔗 Connect with Me
 
