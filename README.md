@@ -1,14 +1,13 @@
 # Welcome to My GitHub Profile! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 ![](https://raw.githubusercontent.com/rockcor/rockcor/output/github-contribution-grid-snake-dark.svg)  
+
 ## 👨‍💻 About Me
 
-I'm **Mahan Veisi**, a passionate computer engineer with a keen interest in **Reinforcement Learning (RL)**, **Computer Vision**, and **Generative AI**. Currently, I'm pursuing my **Bachelor's in Computer Engineering** at **Shahid Beheshti University, Tehran**. My journey in tech is fueled by curiosity and a desire to push the boundaries of what AI can achieve.
+I'm **Mahan Veisi**, a computer engineer and researcher with a **deep passion for Generative AI**, especially **Diffusion Models**. My work spans **Medical AI**, **Reinforcement Learning (RL)**, and **Computer Vision**. I’m currently a fourth-year B.Sc. student in **Computer Engineering** at **Shahid Beheshti University, Tehran**, and will be graduated in January 2026.
 
-
-
-- 🔭 **Currently working on**: Generative Adversarial Networks(GAN).
-- 🌱 **Exploring**: Advanced Reinforcement Learning techniques and their applications in robotics and game theory.
-- ⚡ **Looking to collaborate on**: Open-source AI projects, particularly in RL and computer vision.
+🔭 Currently working on: Transformer-based models for medical imaging reconstruction.
+⚙️ Exploring: The synergy between RL and diffusion models, plus leveraging GNNs in generative pipelines.
+⚡ Looking to collaborate on: Open-source AI projects focusing on medical imaging, generative modeling, and advanced RL.
 
 ## 📈 GitHub Stats
 
