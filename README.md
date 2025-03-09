@@ -5,9 +5,9 @@
 
 I'm **Mahan Veisi**, a computer engineer and researcher with a **deep passion for Generative AI**, especially **Diffusion Models**. My work spans **Medical AI**, **Reinforcement Learning (RL)**, and **Computer Vision**. I’m currently a fourth-year B.Sc. student in **Computer Engineering** at **Shahid Beheshti University, Tehran**, and will be graduated in January 2026.
 
-🔭 Currently working on: Transformer-based models for medical imaging reconstruction.
-⚙️ Exploring: The synergy between RL and diffusion models, plus leveraging GNNs in generative pipelines.
-⚡ Looking to collaborate on: Open-source AI projects focusing on medical imaging, generative modeling, and advanced RL.
+- 🔭 Currently working on: Transformer-based models for medical imaging reconstruction.
+- ⚙️ Exploring: The synergy between RL and diffusion models, plus leveraging GNNs in generative pipelines.
+- ⚡ Looking to collaborate on: Open-source AI projects focusing on medical imaging, generative modeling, and advanced RL.
 
 ## 📈 GitHub Stats
 
