@@ -20,13 +20,6 @@ I work at the intersection of **Generative AI (diffusion models)**, **Medical Im
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahanVeisi8&layout=compact&theme=radical)
 
 
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahan-veisi-427934226/)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@Mahan_Veisi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahan8292@gmail.com)
-
 ## 🚀 My Technical Arsenal
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
