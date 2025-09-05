@@ -7,7 +7,7 @@ I’m **Mahan Veisi**, a Computer Engineering undergrad (graduating **Jan 2026**
 I work at the intersection of **Generative AI (diffusion models)**, **Medical Imaging**, and **Computational Biology**.  
 
 
-📫 **Contact:** [Website](https://mahanveisi8.github.io) · [Google Scholar](https://scholar.google.com/citations?user=LQL2vyQAAAAJ) · [LinkedIn](https://www.linkedin.com/in/mahan-veisi-427934226/) · [Email](mailto:mahan8292@gmail.com)
+📫 **Contact:** 🌐 [Website](https://mahanveisi8.github.io) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=LQL2vyQAAAAJ) · 💼 [LinkedIn](https://www.linkedin.com/in/mahan-veisi-427934226/) · ✉️ [Email](mailto:mahan8292@gmail.com) · ▶️ [YouTube](https://www.youtube.com/@Mahan_Veisi)
 
 
 ## 📈 GitHub Stats
@@ -20,30 +20,6 @@ I work at the intersection of **Generative AI (diffusion models)**, **Medical Im
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahanVeisi8&layout=compact&theme=radical)
 
 
-<!--
-<details open>
-<summary> 📈 GitHub Stats </summary>
-
-
-
-<p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MahanVeisi8&show_icons=true&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="MahanVeisi8's GitHub stats" />
-</p>
-
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=MahanVeisi8&theme=dark&ring=C2FFC7&fire=CB9DF0&currStreakLabel=C2FFC7" alt="MahanVeisi8's streak"/>
-</p>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=MahanVeisi8&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="MahanVeisi8's trophies"/>
-</p>
-
-<!--<h3 align="center">Contribution Snake</h3>-->
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/MahanVeisi8/MahanVeisi8/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p> 
-</details>
--->
 
 ## 🔗 Connect with Me
 
