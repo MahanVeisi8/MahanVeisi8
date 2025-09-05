@@ -5,7 +5,6 @@
 
 I’m **Mahan Veisi**, a Computer Engineering undergrad (graduating **Jan 2026**) at **Shahid Beheshti University**.  
 I work at the intersection of **Generative AI (diffusion models)**, **Medical Imaging**, and **Computational Biology**.  
-I’m seeking **MSc/PhD opportunities for 2026** in generative modeling, med-AI, and bio-AI.
 
 
 📫 **Contact:** [Website](https://mahanveisi8.github.io) · [Google Scholar](https://scholar.google.com/citations?user=LQL2vyQAAAAJ) · [LinkedIn](https://www.linkedin.com/in/mahan-veisi-427934226/) · [Email](mailto:mahan8292@gmail.com)
