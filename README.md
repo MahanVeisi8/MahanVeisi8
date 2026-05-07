@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 
-I’m **Mahan Veisi**, a Computer Engineering undergrad (graduating **Jan 2026**) at **Shahid Beheshti University**.  
+I’m **Mahan Veisi**, a Computer Engineering undergrad (graduating **May 2026**) at **Shahid Beheshti University**.  
 I work at the intersection of **Visual Reconstruction (diffusion models)**, **Medical Imaging**, and **Computational Biology**.  
 
 
