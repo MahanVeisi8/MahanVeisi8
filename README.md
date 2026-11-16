@@ -1,13 +1,36 @@
-# Welcome to My GitHub Profile! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-![](https://raw.githubusercontent.com/rockcor/rockcor/output/github-contribution-grid-snake-dark.svg)  
+# Welcome to My GitHub Profile! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahanVeisi8/MahanVeisi8/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahanVeisi8/MahanVeisi8/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/MahanVeisi8/MahanVeisi8/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ## 👨‍💻 About Me
 
-I’m **Mahan Veisi**, a Computer Engineering undergrad (graduating **May 2026**) at **Shahid Beheshti University**.  
-I work at the intersection of **Visual Reconstruction (diffusion models)**, **Medical Imaging**, and **Computational Biology**.  
+I'm **Mahan Veisi**, a **PhD student in Computer Science** at the **[University of Manchester](https://www.cs.manchester.ac.uk/)** (Oct 2026 – ), funded by the **FSE Bicentenary Scholarship**.
+I'm based in **Manchester, UK** 📍
 
+My PhD is on **multiscale foundation models for spatial omics**, with breast cancer as the main application: self-supervised transformer models that learn across scales, from single cells up to whole tissue sections.
 
-📫 **Find me:** 🌐 [Website](https://mahanveisi8.github.io) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=LQL2vyQAAAAJ) · 💼 [LinkedIn](https://www.linkedin.com/in/mahan-veisi-427934226/) · ✉️ [Email](mailto:mahan8292@gmail.com) · ▶️ [YouTube](https://www.youtube.com/@Mahan_Veisi)
+Before Manchester, I completed my **B.Sc. in Computer Engineering** at **Shahid Beheshti University** (Tehran, May 2026), where I worked on **diffusion models for visual reconstruction** and **medical imaging (MRI)**.
+
+## 🔭 Research Interests
+
+- 🧬 Foundation models for **spatial transcriptomics** and **computational biology**
+- 🧠 **Self-supervised learning** and **interpretability**
+- 🎨 **Diffusion models**, generative modelling, and signal processing
+- 🩻 **Medical imaging** (MRI reconstruction)
+
+## 🧪 Experience
+
+- **Remote Research Intern**, Lotfollahi Lab, **Wellcome Sanger Institute** (Apr – Nov 2025)
+
+## 📫 Find Me
+
+🌐 [Website](https://mahanveisi8.github.io) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=LQL2vyQAAAAJ) · 💼 [LinkedIn](https://www.linkedin.com/in/mahan-veisi-427934226/) · ✉️ [University email](mailto:mahan.veisi@postgrad.manchester.ac.uk) · ▶️ [YouTube](https://www.youtube.com/@Mahan_Veisi)
+
+⚽ Outside research: running, guitar, and football (Manchester United).
 
 
 ## 📈 GitHub Stats
